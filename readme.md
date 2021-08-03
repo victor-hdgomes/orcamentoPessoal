@@ -1,0 +1,1 @@
+Este é um site fictício para aprendizado!
