@@ -1,1 +1,1 @@
-Este é um site fictício para aprendizado!
+Dummy study project using HTML, CSS, Bootstrap, JavaScript and LocalStorage.
